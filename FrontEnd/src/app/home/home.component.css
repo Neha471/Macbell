@@ -1,40 +1,30 @@
-.font-type{
-    font-family: Apple Chancery, cursive;
-}
-.hoverable:hover{
-    background-color: lightgray;
-}
-.card-hover{
-    padding: 50px;
-    box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.3);
-    background-color: darkcyan;
-    color: white;
-    font-family: Apple Chancery, cursive;
-    posfont-fition: relative;
-    top: 110px;
-}
-/* .card-hover:hover{
-    background-color: lightsteelblue;
-} */
-
-.textalign{
-    text-align: right;
-}
-.text-align-right{
-    position: relative;
-    left: 50px;
-    top: 10px;
-    color: grey;
-    
-}
-
-i{
-    padding-right: 20px;
-    font-size: 30px;
-    color: white;
+header img {
+    height: 70vh;
 }
 .img-round{
     border-radius: 50%;
     height: 200px;
     width: 200px;
+}
+footer .hoverable:hover{
+    background-color: lightgray;
+}
+footer .card-hover{
+    padding: 50px;
+    background-color: darkcyan;
+    color: white;
+}
+footer .textalign{
+    text-align: left;
+}
+footer .tag{
+    background-color: darkgray;
+    padding: 3px;
+    border: 1px solid gray;
+   margin-right: 3px;
+}
+footer i{
+    padding-right: 20px;
+    font-size: 30px;
+    color: white;
 }
