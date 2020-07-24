@@ -1,0 +1,52 @@
+.button-design{
+    /* background-color: red;  */
+    color: white; 
+    padding: 10px; 
+    border-radius: 5px;
+    position: relative; 
+    top: 360px; 
+    /* left: 550px;  */
+    text-align: center; 
+    color: white;
+}
+ .landingPage1{
+    position: relative; 
+    top: 300px; 
+    /* text-align: center;  */
+    color: white;
+}
+ .landingPage2{
+    position: relative; 
+    top: 320px; 
+    /* text-align: center;  */
+    color: white;
+
+}
+.landingPage3{
+    position: relative;  
+    top: 340px;
+    /* text-align: center;  */
+    color: white;
+}
+.tr1{
+    text-align: center; 
+    background-color: #95cce1;
+    color: white;
+    height: 50px;
+}
+.tr2{
+    text-align: center; 
+    background-color: #f0f8ff;
+    height: 50px;
+}
+.tr3{
+    /* background-color: red;  */
+    color: white;
+    padding: 2px;
+}
+footer{
+    position: relative;
+    bottom: 0;
+    background-color:#3c3d41; 
+    height: 200px;
+}
